@@ -30,8 +30,8 @@ To set up your local environment to run this project, please follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <https://github.com/Thymin3/Research-Trend-Analysis.git>
-    cd <repository-directory>
+    git clone https://github.com/Thymin3/Research-Trend-Analysis.git
+    cd Research-Trend-Analysis
     ```
 
 2.  **Create a virtual environment (recommended):**
