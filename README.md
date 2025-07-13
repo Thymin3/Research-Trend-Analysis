@@ -1,6 +1,6 @@
 # Analysis of Research Trends on arXiv
 
-**A Case Study for the IU - Internationale Hochschule Module 'Unsupervised Machine Learning'**
+**A Case Study for the IU - Internationale Hochschule Module 'Unsupervised Learning and Feature Engineering in Machine Learning'**
 
 ## Overview
 
